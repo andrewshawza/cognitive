@@ -5,7 +5,7 @@ url: https://andrewshawza.github.io/cognitive
 avatar: /andrew.jpg
 paginate: 5
 permalink: pretty
-cover_image: /assets/img/backlit.jpg
+cover_image: /backlit.jpg
 
 # Gems
 plugins:
