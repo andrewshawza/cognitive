@@ -12,7 +12,7 @@ author: Andrew
 
 My Online MBA Experience
 
-[![ThePowerMBA Infographic]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/infographic.jpg){: .align-center}
+[![ThePowerMBA Infographic]({{ site.images | relative_url }}/rails.jpg)]({{ site.images | relative_url }}/infographic.jpg) 
 
 Choosing an online MBA over a traditional MBA.
 
