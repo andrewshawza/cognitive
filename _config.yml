@@ -1,59 +1,44 @@
-# Setup
-title: COGNITIVE [OFF]LOAD
-description: Just some thoughts
-url: https://andrewshawza.github.io/cognitive
-avatar: /andrew.jpg
-paginate: 5
-permalink: pretty
-cover_image: /angle2.jpg
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
+# Site settings
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+lang: "en"
+url: "http://localhost:4000" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+disqus_username:
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-  - scripts/
-  - not-pure-poole.gemspec
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
 
-# Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+# Posts settings
+future: true
+safe: false
+lsi: false
+excerpt_separator: "\n\n"
+
+# Theme settings
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
 
 sass:
-  sass_dir: _sass
-  style: :compressed
+  sass_dir: assets/_sass
+  style: compressed
 
-# Options
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# google_analytics: UA-000000-0
-
-# Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
-
-# Specify the author for blog posts
-author:
-  name: Andrew Shaw
-  url: https://andrewshawza.github.io/cognitive
-  email:  
+images: '/assets/images'
