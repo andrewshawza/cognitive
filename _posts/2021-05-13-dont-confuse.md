@@ -3,7 +3,7 @@ layout: post
 title: Don’t Confuse More Developers With More Output
 ---
 
-![placeholder](/assets/img/dont-confuse.jpg)
+![placeholder](/dont-confuse.jpg)
 
 On an almost daily basis I get asked “how can we help your team accelerate x” ?
 
