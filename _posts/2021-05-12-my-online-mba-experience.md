@@ -7,7 +7,7 @@ author: Andrew Shaw
 date: 2021 05 12
 ---
 
-# ![PowerMBA Infographic](/assets/img/infographic.jpg)
+# ![PowerMBA Infographic](//assets/img/infographic.jpg)
 
 **Choosing an online MBA over a traditional MBA.**
 
