@@ -8,12 +8,13 @@ summary: "About this blog"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Geek & online product guy. Living in digital and working in eCom. South African now living in the German countryside. Dad, music lover, sport mad, drummer & vegan.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+*The official LinkedIn blab:*
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+> I am a multi-skilled and qualified product management leader with extensive expertise in product development, digital solutions, cross-function team management, product strategy and analysis.
+
+> Advanced business and technical acumen ensure a firm understanding of effective processes and systems including resolving issues and implementing appropriate improvements, while enhanced liaison and negotiation skills allow for successful collaboration with stakeholders from many professional, technical and cultural backgrounds.
+
+> Highly developed analytical expertise and problem solving, time-management and organisational skills guarantee precise attention to detail, exemplary performance under pressure and the ability to achieve tight deadlines in fast-paced environments.
+
