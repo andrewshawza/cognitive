@@ -1,13 +1,12 @@
 ---
 layout: post
 title: My Online MBA Experience
-# image: /assets/images/powermba-infographic.jpeg
 tags: MBA Online Study Blog   education
 categories: blog
 ---
-# ![PowerMBA Infographic](/assets/images/powermba-infographic-800x487.jpg)
 
-![image-center](/assets/images/image-alignment-580x300.jpg){: .align-center}
+
+![image-center](/infographic.jpg){: .align-center}
 
 Choosing an online MBA over a traditional MBA.
 
