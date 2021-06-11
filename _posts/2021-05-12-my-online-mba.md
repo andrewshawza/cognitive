@@ -10,11 +10,10 @@ tags: ['MBA', 'Education']
 author: Andrew
 ---
 
-My Online MBA Experience
 
 [![Infographic]({{ site.images | relative_url }}/infographic.jpg)]({{ site.images | relative_url }}/infographic.jpg) 
 
-Choosing an online MBA over a traditional MBA.
+**Choosing an online MBA over a traditional MBA.**
 
 Let’s start with my motivation for doing an MBA.
 
