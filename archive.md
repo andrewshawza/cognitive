@@ -5,7 +5,7 @@ permalink: /posts/
 title: "Posts"
 crawlertitle: "All articles"
 summary: "Posts about jekyll"
-active: archive
+active: posts
 ---
 
 {% for tag in site.tags %}
