@@ -6,7 +6,7 @@ crawlertitle: "More Developers not equal to More Output "
 summary: "Don't Confuse More Developers With More Output."
 date:   2021-05-13 19:00:47 +0100
 categories: posts
-tags: ['Development', 'Product Management']
+tags: ['Product Management, Development']
 author: Andrew
 ---
 

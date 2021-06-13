@@ -6,7 +6,7 @@ crawlertitle: "Online MBA"
 summary: "Choosing an online MBA over a traditional MBA."
 date:   2021-05-12 19:00:47 +0100
 categories: posts
-tags: ['MBA', 'Education']
+tags: ['MBA, Education']
 author: Andrew
 ---
 
