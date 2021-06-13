@@ -4,7 +4,7 @@ layout: page
 permalink: /posts/
 title: "Posts"
 crawlertitle: "All articles"
-summary: "Posts about jekyll"
+summary: "Post Archive"
 active: posts
 ---
 
