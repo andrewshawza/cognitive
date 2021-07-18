@@ -6,12 +6,12 @@ crawlertitle: "Increasing productivity, while reducing work  hours, is it possib
 summary: "Increasing productivity, while reducing work  hours, is it possible?"
 date:   2021-07-18 15:00:47 +0100
 categories: posts
-tags: ['Product Management, Productivity']
+tags: ['Productivity']
 author: Andrew
 ---
 
 
-[![Infographic]({{ site.images | relative_url }}/dont-confuse.jpg)]({{ site.images | relative_url }}/life-work.jpg) 
+[![Infographic]({{ site.images | relative_url }}/life-work.jpg)]({{ site.images | relative_url }}/life-work.jpg) 
 
 Increasing productivity, while reducing work  hours, is it possible?
 
