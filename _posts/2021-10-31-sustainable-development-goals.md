@@ -2,11 +2,11 @@
 bg: "life-work.jpg"
 layout: post
 title:  "The 17 Sustainable Development Goals (SDGs)"
-crawlertitle: "Increasing productivity, while reducing work  hours, is it possible?"
-summary: "Increasing productivity, while reducing work  hours, is it possible?"
-date:   2021-07-18 15:00:47 +0100
+crawlertitle: "Are you aware of your company’s position on the 17 SDGs?"
+summary: "ICorporate Social Responsibility and Sustainable Development Goals (SDG)"
+date:   2021-10-31 18:30:00 +0100
 categories: posts
-tags: ['Productivity']
+tags: ['Sustainability']
 author: Andrew
 ---
 
